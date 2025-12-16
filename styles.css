@@ -1,0 +1,27 @@
+html {
+    background-color: #333132;
+}
+
+.home-title {
+    color: white;
+    font-size: 260px;
+    display: flex;
+    justify-content: center;
+}
+
+.venue-options {
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    font-size: 150px;
+}
+
+.venue-options-cactus-club {
+    color: white;
+}
+
+
+.venue-pictures {
+    display: flex;
+    justify-content: space-evenly;
+}
